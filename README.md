@@ -6,13 +6,13 @@ This project can be described as "a video meeting experience with one goal: make
 
 ## Home Page
 
-![Home](/screenshots/home.png)
+![Home Page](/screenshots/home.png)
 
 ## Room Page
 
 ![Explore](/screenshots/meeting.png)
-![Explore](/screenshots/meeting1.png)
-![Explore](/screenshots/chat.png)
+## Chats
+![Explore2](/screenshots/chat.png)
 
 ## Run Locally
 
