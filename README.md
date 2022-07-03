@@ -1,27 +1,23 @@
-# Sonic Meet
+# Google Meet
 
 This project can be described as "a video meeting experience with one goal: make joining meetings effortless". We connect people through frictionless video, voice, chat, and content sharing and enable face-to-face video experiences for thousands of people in a single meeting across disparate devices and locations.
 
-![Sonic Meet](/screenshot/sonic-meet.png)
-
-## Live Website
-
-https://sonic-meet.netlify.app/
+![Google Meet](/screenshots/logo.png)
 
 ## Home Page
 
-![Home](/screenshot/home.png)
+![Home](/screenshots/home.png)
 
 ## Room Page
 
-![Explore](/screenshot/room.png)
+![Explore](/screenshots/meeting.png)(/screenshots/meeting1.png)(/screenshots/chat.png)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/theviralboy/sonic-meet
+  git clone https://github.com/fenyman2003/google-meet.git
 ```
 
 Go to the project directory
@@ -83,6 +79,4 @@ And you are ready to go!
 
 React, Firebase 9, TailwindCSS 3, simple-peer, Node JS, Socket IO
 
-## Feedback
 
-If you have any feedback, please reach out to us at sahilverma.webdev@gmail.com
