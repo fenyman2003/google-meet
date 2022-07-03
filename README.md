@@ -10,7 +10,9 @@ This project can be described as "a video meeting experience with one goal: make
 
 ## Room Page
 
-![Explore](/screenshots/meeting.png)(/screenshots/meeting1.png)(/screenshots/chat.png)
+![Explore](/screenshots/meeting.png)
+![Explore](/screenshots/meeting1.png)
+![Explore](/screenshots/chat.png)
 
 ## Run Locally
 
