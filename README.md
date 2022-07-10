@@ -25,7 +25,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd sonic-meet
+  cd google-meet
 ```
 
 Install dependencies on client and backend
